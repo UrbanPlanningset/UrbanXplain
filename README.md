@@ -38,6 +38,7 @@ A second mode highlights **functional zoning** using four distinct colors:
 - 🟦 **Commercial** — `#A0D6ED`
 - 🟩 **Public** — `#C1E2A0`
 - 🟥 **Cultural** — `#F2A8A7`
+  
 This helps users understand spatial distribution and land-use clustering at a glance.
 
 ### 7. End of Demonstration
