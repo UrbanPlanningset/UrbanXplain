@@ -52,8 +52,6 @@ The demo concludes with a full-system overview, illustrating how natural languag
 🎥 Click to watch the full demo video:  
 [UrbanXplain Demonstration on Google Drive](https://drive.google.com/file/d/1t7tF8tT2tp7p510DjK3LhANblLIiDjMP/view?usp=drive_link)
 
-![UrbanXplain Demo Preview](./samples/urbanxplain_preview.gif)
-
 > The animation above shows a snapshot of the demo process, including instruction input, auto-generated buildings, energy and zoning visualizations, and interactive explanation popups.
 
 ---
