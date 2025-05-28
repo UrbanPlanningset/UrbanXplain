@@ -1,7 +1,7 @@
 # UrbanXplain
 
 # UrbanXplain Demonstration
-![UrbanXplain Demo Preview](UrbanXplain/UrbanXplain.gif)
+UrbanXplain/UrbanXplain.gif
 This video showcases the key capabilities of **UrbanXplain**, a language-driven urban planning system that integrates large language model reasoning with real-time 3D simulation.
 
 ## 🎬 Video Walkthrough
@@ -35,10 +35,10 @@ This enables quick inspection of sustainability across the layout.
 
 ### 6. Zoning Visualization Mode
 A second mode highlights **functional zoning** using four distinct colors:
-- 🟦 Residential
-- 🟧 Commercial
-- 🟩 Public
-- 🟪 Cultural
+- 🟨 **Residential** — `#F8D978`
+- 🟦 **Commercial** — `#A0D6ED`
+- 🟩 **Public** — `#C1E2A0`
+- 🟥 **Cultural** — `#F2A8A7`
 
 This helps users understand spatial distribution and land-use clustering at a glance.
 
