@@ -1,5 +1,3 @@
-# UrbanXplain
-
 # UrbanXplain Demonstration
 ![UrbanXplain Demo Preview](https://github.com/UrbanPlanningset/UrbanXplain/blob/main/UrbanXplain.gif?raw=true)
 
