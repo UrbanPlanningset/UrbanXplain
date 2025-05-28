@@ -35,10 +35,10 @@ This enables quick inspection of sustainability across the layout.
 
 ### 6. Zoning Visualization Mode
 A second mode highlights **functional zoning** using four distinct colors:
-- 🟨 **Residential** — `#F8D978`
-- 🟦 **Commercial** — `#A0D6ED`
-- 🟩 **Public** — `#C1E2A0`
-- 🟥 **Cultural** — `#F2A8A7`
+- <span style="background-color:#F8D978;padding:2px 6px;border-radius:3px;">Residential</span>
+- <span style="background-color:#A0D6ED;padding:2px 6px;border-radius:3px;">Commercial</span>
+- <span style="background-color:#C1E2A0;padding:2px 6px;border-radius:3px;">Public</span>
+- <span style="background-color:#F2A8A7;padding:2px 6px;border-radius:3px;">Cultural</span>
 
 This helps users understand spatial distribution and land-use clustering at a glance.
 
