@@ -1,7 +1,7 @@
 # UrbanXplain
 
 # UrbanXplain Demonstration
-![UrbanXplain Demo Preview](UrbanPlanningset/UrbanXplain/UrbanXplain.gif)
+![UrbanXplain Demo Preview](UrbanXplain/UrbanXplain.gif)
 This video showcases the key capabilities of **UrbanXplain**, a language-driven urban planning system that integrates large language model reasoning with real-time 3D simulation.
 
 ## 🎬 Video Walkthrough
